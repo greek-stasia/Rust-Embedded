@@ -1,0 +1,6 @@
+[package]
+name = "needles"
+version = "0.1.0"
+authors = ["anastasiabourlas"]
+
+[dependencies]
